@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Giovanny Galarza  
+- Certification: Meta front-end Developer  
 
 ## Instructions
 Please replace the placeholders with your details:
